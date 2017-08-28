@@ -1,0 +1,20 @@
+{
+  "name": "vbulma",
+  "version": "1.0.0",
+  "description": "vue js + bulma css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pingen/vbulma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pingen/vbulma/issues"
+  },
+  "homepage": "https://github.com/pingen/vbulma#readme"
+}
